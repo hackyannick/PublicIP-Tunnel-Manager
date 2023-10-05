@@ -14,7 +14,7 @@ tun_if="wg0"
 # Addresses  #
 ##############
 # Public IP used for tunnel. Should be the main IP of your VPS
-local_ip="82.165.48.217"
+local_ip="88.99.224.189"
 # Tunnel IP + network
 tun_local_addr="172.20.1.1/30"
 # Tunnel IP of your home router
@@ -40,7 +40,7 @@ tun_mtu="1476"
 ################
 # Define your public IPs that will be routed to your home router
 # Use an array ( "IP1/CIDR" "IP2 "IP3" ... )
-public_ip=( "217.160.171.11/32" )
+public_ip=( "95.217.241.212/32" )
 public_ip6=( )
 
 ################################
