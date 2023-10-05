@@ -7,7 +7,7 @@ tun_proto="wg"
 ##############
 # Interfaces #
 ##############
-nic="eth0"
+nic="ens192"
 tun_if="wg0"
 
 ##############
